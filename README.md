@@ -1,0 +1,2 @@
+# 3DModelDataset
+This is only part of all the 228 3D models. Because Github has certain restrictions on the uploaded content, this 3D model database is not suitable for uploading here, to get the 3D model database, please go to https://pan.baidu.com/s/1sjJUh1f9K-eixtGZ9DcM8A with password "yxw0".
